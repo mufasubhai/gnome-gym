@@ -1,0 +1,7 @@
+{
+  "name": "GnomeGym",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
