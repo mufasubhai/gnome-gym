@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:10:9-12:20
+	android:grantUriPermissions
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:10:96-130
+	android:authorities
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:10:19-70
+	android:exported
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:10:71-95
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:10:131-180
+manifest
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [:capacitor-app] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-haptics] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:capacitor-keyboard] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-status-bar] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/status-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-android] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-cordova-android-plugins] /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/2169f313fa4cbe10162f4d70fc465f92/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d3feb3d56346af4da28f40eb21dfc396/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] /Users/adrianapodaca/.gradle/caches/transforms-3/bc9c134067ba0b1da7095673791c8634/transformed/jetified-core-splashscreen-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/0153f927b9117fafaaf9313215cf9407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/71c12bea48f1139492fd894ee5b12143/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/e2d89582dbbbf4f6d69302a758b5f8b4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/adrianapodaca/.gradle/caches/transforms-3/4612128029ce2284db7334e6d8990d8b/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/5e304aea64ab11de9e2a7dd2d6bd5122/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/f64e1f93e3e3f65dfabc075d4f025d2c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/f36184fa1f5145538872aadae9fc172d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/b87ca79d47773b2c6d25c13354ada7c0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/855b70c6050ca655e3d5b581ca9d5e61/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/0206c4bdfcfcd8e30c316386ceeb367a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/c2ba95623aa5713c19be58d1c53fa113/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/31668b0d00bef4da68d7b71fa2c4f906/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/808fdbb6fc0a36151100cbd4d8d35567/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/519ccaf37e71c6e21111946fca1863c7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/20802118d2cfbffd0d4917d6060c5661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/64174afcebe403c623a62b1c7942e7ef/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/e59fd1aeb93f0bce91e25a25574a04f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/54acc9d2f3c137c2680ae8b4c78edd55/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a687c7fe4fab1bd58b4dfc646636a9a0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/691c45cfae757f61e00e99b5640e3e51/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a5b27ed105479e4f8d5f75c3d84614c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/df8fdca3a5903f78ea2fecca2b737539/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d219ab5b4c0d75863b32097824856948/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.apache.cordova:framework:10.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/b35dcbf5178ffadba45576e559efe438/transformed/jetified-framework-10.1.1/AndroidManifest.xml:20:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8c5f88f16a11c13f06c3db3e63b2e49f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:11-37
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:2:38-96
+application
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:5-13:19
+MERGED from [:capacitor-cordova-android-plugins] /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
+MERGED from [:capacitor-cordova-android-plugins] /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-9:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/e59fd1aeb93f0bce91e25a25574a04f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/e59fd1aeb93f0bce91e25a25574a04f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:159-185
+	android:label
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:80-112
+	android:roundIcon
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:113-158
+	android:icon
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:45-79
+	android:allowBackup
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:18-44
+	android:theme
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:186-217
+	android:usesCleartextTraffic
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:3:218-253
+activity#io.ionic.starter.MainActivity
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:9-9:20
+	android:label
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:160-203
+	android:launchMode
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:204-235
+	android:exported
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:136-159
+	android:configChanges
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:19-135
+	android:theme
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:281-330
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:4:236-280
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:6:17-69
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:7:17-77
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:7:27-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:14:22-64
+uses-sdk
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+MERGED from [:capacitor-app] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-app] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-haptics] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-haptics] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-keyboard] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-keyboard] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/keyboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-status-bar] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/status-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-status-bar] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/status-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-android] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-android] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/android/capacitor/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-cordova-android-plugins] /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:capacitor-cordova-android-plugins] /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/capacitor-cordova-android-plugins/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/2169f313fa4cbe10162f4d70fc465f92/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/2169f313fa4cbe10162f4d70fc465f92/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d3feb3d56346af4da28f40eb21dfc396/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d3feb3d56346af4da28f40eb21dfc396/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] /Users/adrianapodaca/.gradle/caches/transforms-3/bc9c134067ba0b1da7095673791c8634/transformed/jetified-core-splashscreen-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] /Users/adrianapodaca/.gradle/caches/transforms-3/bc9c134067ba0b1da7095673791c8634/transformed/jetified-core-splashscreen-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/0153f927b9117fafaaf9313215cf9407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/0153f927b9117fafaaf9313215cf9407/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/71c12bea48f1139492fd894ee5b12143/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/adrianapodaca/.gradle/caches/transforms-3/71c12bea48f1139492fd894ee5b12143/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/e2d89582dbbbf4f6d69302a758b5f8b4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/e2d89582dbbbf4f6d69302a758b5f8b4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/adrianapodaca/.gradle/caches/transforms-3/4612128029ce2284db7334e6d8990d8b/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/adrianapodaca/.gradle/caches/transforms-3/4612128029ce2284db7334e6d8990d8b/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/5e304aea64ab11de9e2a7dd2d6bd5122/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/5e304aea64ab11de9e2a7dd2d6bd5122/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/f64e1f93e3e3f65dfabc075d4f025d2c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/f64e1f93e3e3f65dfabc075d4f025d2c/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/f36184fa1f5145538872aadae9fc172d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/f36184fa1f5145538872aadae9fc172d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/b87ca79d47773b2c6d25c13354ada7c0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/b87ca79d47773b2c6d25c13354ada7c0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/855b70c6050ca655e3d5b581ca9d5e61/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/855b70c6050ca655e3d5b581ca9d5e61/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/0206c4bdfcfcd8e30c316386ceeb367a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/0206c4bdfcfcd8e30c316386ceeb367a/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/c2ba95623aa5713c19be58d1c53fa113/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/c2ba95623aa5713c19be58d1c53fa113/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/31668b0d00bef4da68d7b71fa2c4f906/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/31668b0d00bef4da68d7b71fa2c4f906/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/808fdbb6fc0a36151100cbd4d8d35567/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/808fdbb6fc0a36151100cbd4d8d35567/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/519ccaf37e71c6e21111946fca1863c7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/519ccaf37e71c6e21111946fca1863c7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/20802118d2cfbffd0d4917d6060c5661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/20802118d2cfbffd0d4917d6060c5661/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/64174afcebe403c623a62b1c7942e7ef/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/adrianapodaca/.gradle/caches/transforms-3/64174afcebe403c623a62b1c7942e7ef/transformed/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/adrianapodaca/.gradle/caches/transforms-3/11df6a533eeecb11ac5256eea5da9323/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/e59fd1aeb93f0bce91e25a25574a04f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/e59fd1aeb93f0bce91e25a25574a04f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/54acc9d2f3c137c2680ae8b4c78edd55/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/54acc9d2f3c137c2680ae8b4c78edd55/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a687c7fe4fab1bd58b4dfc646636a9a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a687c7fe4fab1bd58b4dfc646636a9a0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/691c45cfae757f61e00e99b5640e3e51/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/691c45cfae757f61e00e99b5640e3e51/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a5b27ed105479e4f8d5f75c3d84614c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/a5b27ed105479e4f8d5f75c3d84614c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/df8fdca3a5903f78ea2fecca2b737539/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/adrianapodaca/.gradle/caches/transforms-3/df8fdca3a5903f78ea2fecca2b737539/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d219ab5b4c0d75863b32097824856948/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d219ab5b4c0d75863b32097824856948/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.apache.cordova:framework:10.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/b35dcbf5178ffadba45576e559efe438/transformed/jetified-framework-10.1.1/AndroidManifest.xml:25:5-44
+MERGED from [org.apache.cordova:framework:10.1.1] /Users/adrianapodaca/.gradle/caches/transforms-3/b35dcbf5178ffadba45576e559efe438/transformed/jetified-framework-10.1.1/AndroidManifest.xml:25:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8c5f88f16a11c13f06c3db3e63b2e49f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8c5f88f16a11c13f06c3db3e63b2e49f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:11:13-112
+	android:resource
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:11:75-109
+	android:name
+		ADDED from /Users/adrianapodaca/Repositories/Personal/GnomeGym/android/app/src/main/AndroidManifest.xml:11:24-74
+uses-permission#android.permission.VIBRATE
+ADDED from [:capacitor-haptics] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [:capacitor-haptics] /Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/8f21b2e0ef92c0e49036d93fe7076b3b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/adrianapodaca/.gradle/caches/transforms-3/d692e75309d4d3875fbd8dd0076cd571/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/adrianapodaca/.gradle/caches/transforms-3/9f95d8a34afc789acea87dfcc52033e8/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

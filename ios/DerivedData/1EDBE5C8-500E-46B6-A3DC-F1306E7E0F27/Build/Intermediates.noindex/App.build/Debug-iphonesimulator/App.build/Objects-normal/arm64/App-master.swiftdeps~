@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fde32484483c2d8152d66e50f11907f9bb25c39125d9e4c30c8b491a41f4fd41"
+build_start_time: [1676784527, 560007095]
+build_end_time: [1676784527, 577576160]
+inputs:
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/ios/App/App/AppDelegate.swift": !private [1675448670, 0]

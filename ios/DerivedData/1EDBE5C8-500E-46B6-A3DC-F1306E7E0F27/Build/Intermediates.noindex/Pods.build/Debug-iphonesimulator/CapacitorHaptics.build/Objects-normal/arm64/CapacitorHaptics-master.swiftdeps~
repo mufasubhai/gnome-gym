@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "67c63cde53bc0102b8f24c144d1270de13c39a843969d56eae04e8b0bfbbef26"
+build_start_time: [1676784526, 573287010]
+build_end_time: [1676784526, 601417064]
+inputs:
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/ios/Plugin/Haptics.swift": !private [1676778292, 728852272]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/haptics/ios/Plugin/HapticsPlugin.swift": !private [1676778292, 729078054]

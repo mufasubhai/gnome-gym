@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3e138f5320524dafd164483f4c87190162c8774ad8aa754b7f1d600a79e4663d"
+build_start_time: [1676784525, 874541044]
+build_end_time: [1676784527, 383734941]
+inputs:
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/status-bar/ios/Plugin/StatusBarPlugin.swift": [1676778292, 697083473]

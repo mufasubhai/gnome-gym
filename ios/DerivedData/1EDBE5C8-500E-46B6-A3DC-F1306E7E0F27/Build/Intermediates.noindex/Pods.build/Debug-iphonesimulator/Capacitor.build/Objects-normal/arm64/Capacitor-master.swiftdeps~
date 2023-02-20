@@ -1,0 +1,55 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4f7cee5b0e1dba163dc2fb157ff18be4854743a53e68e2ed00015ad0cba95a6c"
+build_start_time: [1676784523, 401680946]
+build_end_time: [1676784523, 438045024]
+inputs:
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/AppUUID.swift": !private [1676778372, 138414382]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Array+Capacitor.swift": !private [1676778372, 138735294]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift"
+  : !private [1676778372, 140091657]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridge.swift": !private [1676778372, 140148401]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeDelegate.swift": !private [1676778372, 140327453]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeProtocol.swift": !private [1676778372, 140385389]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeViewController.swift"
+  : !private [1676778372, 140757560]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPFile.swift": !private [1676778372, 141293048]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.swift"
+  : !private [1676778372, 141645908]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.swift": !private [1676778372, 141705513]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstancePlugin.swift": !private [1676778372, 141898155]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPLog.swift": !private [1676778372, 141954421]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPNotifications.swift": !private [1676778372, 142007589]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPlugin+LoadInstance.swift": !private [1676778372, 142079114]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginCall.swift": !private [1676778372, 142147064]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPWebView.swift": !private [1676778372, 142514705]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorBridge.swift": !private [1676778372, 139130115]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/CapacitorExtension.swift": !private [1676778372, 139549732]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Data+Capacitor.swift": !private [1676778372, 142721176]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/DocLinks.swift": !private [1676778372, 142743110]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/JS.swift": !private [1676778372, 143138885]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/JSExport.swift": !private [1676778372, 143588781]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/JSTypes.swift": !private [1676778372, 143636226]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/KeyPath.swift": !private [1676778372, 143715858]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationHandlerProtocol.swift"
+  : !private [1676778372, 143763065]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationRouter.swift": !private [1676778372, 143813133]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginCallResult.swift": !private [1676778372, 143871545]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginConfig.swift": !private [1676778372, 144021272]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookieManager.swift"
+  : !private [1676778372, 139356613]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorCookies.swift"
+  : !private [1676778372, 139528274]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorHttp.swift": !private [1676778372, 139686822]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorUrlRequest.swift"
+  : !private [1676778372, 139911651]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/Console.swift": !private [1676778372, 142656803]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/HttpRequestHandler.swift"
+  : !private [1676778372, 142840862]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/WebView.swift": !private [1676778372, 144870042]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/Router.swift": !private [1676778372, 144092559]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/TmpViewController.swift": !private [1676778372, 144668579]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/UIColor.swift": !private [1676778372, 144694328]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.swift": !private [1676778372, 145721435]
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewAssetHandler.swift": !private [1676778372, 144980907]
+  ? "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift"
+  : !private [1676778372, 145450830]

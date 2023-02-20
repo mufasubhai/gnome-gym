@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.ionic.starter.app-mergeDebugResources-18:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/adrianapodaca/.gradle/caches/transforms-3/2169f313fa4cbe10162f4d70fc465f92/transformed/appcompat-1.4.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

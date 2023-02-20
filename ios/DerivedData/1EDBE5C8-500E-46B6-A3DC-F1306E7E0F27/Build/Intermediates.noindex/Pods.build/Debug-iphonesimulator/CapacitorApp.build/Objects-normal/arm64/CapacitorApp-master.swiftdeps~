@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bf3875e5a732e1f75dfd6dce9ebd9adea18181ec99b0b471e6d1e41da1c69df0"
+build_start_time: [1676784526, 572682857]
+build_end_time: [1676784526, 601070880]
+inputs:
+  "/Users/adrianapodaca/Repositories/Personal/GnomeGym/node_modules/@capacitor/app/ios/Plugin/AppPlugin.swift": !private [1676778292, 706514358]
